@@ -1,9 +1,9 @@
 # Site settings
 remote_theme: chesterhow/tale
-title:          Lisbon Revisited
-description:    "Cenas"
+title:          Temas de Filosofia Antiga
+description:    "Handouts, Textos"
 
-url:            "https://pablu.github.io/lisbonrevisited"
+url:            "https://acaeiro.github.io/temas"
 
 # Author
 author:
