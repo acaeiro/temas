@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About"
-author: "Lisbon Revisited"
+author: "António de Castro Caeiro"
 permalink: /about/
 ---
 
