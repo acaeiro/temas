@@ -7,9 +7,9 @@ url:            "https://pablu.github.io/lisbonrevisited"
 
 # Author
 author:
-  name:         Lisbon Revisited
-  url:          https://pablu.github.io/lisbonrevisited
-  email:        pablu@protonmail.com
+  name:         António de Castro Caeiro
+  url:          https://acaeiro.github.io/temas
+  email:        pablodes@protonmail.com
 
 # Build settings
 markdown:       kramdown
