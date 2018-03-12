@@ -1,14 +1,15 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+remote_theme: chesterhow/tale
+title:          Lisbon Revisited
+description:    "Cenas"
+
+url:            "https://pablu.github.io/lisbonrevisited"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Lisbon Revisited
+  url:          https://pablu.github.io/lisbonrevisited
+  email:        pablu@protonmail.com
 
 # Build settings
 markdown:       kramdown
@@ -21,9 +22,8 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
-
-theme: jekyll-theme-minimal
