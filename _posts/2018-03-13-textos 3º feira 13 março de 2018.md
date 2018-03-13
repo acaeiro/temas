@@ -28,6 +28,7 @@ author: "António de Castro Caeiro"
 οὖν ἐπινοίας προηγεῖσθαι δεῖ τὴν διὰ τῆς αἰσθήσεως πε-    (5)
 ρίπτωσιν, καὶ διὰ τοῦτ’ ἀναιρουμένων τῶν αἰσθητῶν ἐξ @1
 (61) ἀνάγκης συναναιρεῖται πᾶσα νόησις.
+
 Todo o pensamento, com efeito, vem a ser a partir da percepção ou não sem percepção ou, então, a partir de uma experiência feita ou não sem fazer uma experiência. É daí que nem sequer seremos capazes de encontrar as chamdas impressões falsas independentemente das coisas que são conhecidas para nós por experiências que fazemos através das percepões, como, por exemplo, nos sonhos e na loucura. […] Também, em geral, não é possível descobrir nada no conceito que alguém não tenha conhecido [previamente] numa experiência. Com efeito isso terá sido compreendido/ apreendido/ captado por semelhança com as coisas de que fazemos experiência, uma semelhança por ampliação ou redução ou composição/ complexificação. […] Todo o conceito/ concepção deve ser antecipado/ precedido por uma experiência com base numa percepção. É também por causa disto que, se as percepções forem destruídas, também todo o pensamento será assim inevitavelmente destruído.
 
 
