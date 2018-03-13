@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Textos para 3ª feira, 13 de março de 2018"
+title: "13 de março de 2018"
 author: "António de Castro Caeiro"
 ---
 
